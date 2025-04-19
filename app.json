@@ -29,6 +29,12 @@
         "projectId": "5afb2e18-fc41-40a7-bb39-08be9fa0fc28"
       }
     },
-    "owner": "haribabuperla"
+    "owner": "haribabuperla",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5afb2e18-fc41-40a7-bb39-08be9fa0fc28"
+    }
   }
 }
